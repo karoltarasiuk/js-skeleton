@@ -1,0 +1,19 @@
+{
+  "name": "js-skeleton",
+  "version": "0.1.0",
+  "homepage": "https://github.com/karoltarasiuk/js-skeleton",
+  "description": "JS ekeleton framework",
+  "author": {
+    "name": "Karol Tarasiuk",
+    "email": "karoltarasiuk@gmail.com",
+    "url": "http://karoltarasiuk.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karoltarasiuk/js-skeleton"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "requirejs": "latest"
+  }
+}
